@@ -75,3 +75,6 @@ fabric.properties
 .idea/vcs.xml
 /.idea/scala_compiler.xml
 /.idea/modules/restful_api_example-build.iml
+/.idea/.name
+/.idea/modules/job_search-restful_api_example.iml
+/.idea/modules/restful_api_example-build~1.iml
