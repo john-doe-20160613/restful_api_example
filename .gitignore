@@ -78,3 +78,6 @@ fabric.properties
 /.idea/.name
 /.idea/modules/job_search-restful_api_example.iml
 /.idea/modules/restful_api_example-build~1.iml
+/.idea/hydra.xml
+/.idea/modules/root-build.iml
+/.idea/modules/root.iml
